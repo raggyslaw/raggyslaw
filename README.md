@@ -58,7 +58,7 @@ python • c++
   <a href="https://www.linkedin.com/in/alphaalphaalpha/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="[https://x.com/mohitvermaxx](https://bento.me/raghavkumar)" target="_blank">
-    <img src="https://pbs.twimg.com/profile_images/1603027246255685633/R8UyVx4C_400x400.jpg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://bento.me/raghavkumar" target="_blank">
+    <img src="https://pbs.twimg.com/profile_images/1603027246255685633/R8UyVx4C_400x400.jpg" height="40" alt="twitter logo"  />
   </a>
 </div>
